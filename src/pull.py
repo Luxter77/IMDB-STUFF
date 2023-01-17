@@ -1,6 +1,5 @@
 from tqdm.auto import tqdm
 import requests as re
-import gzip
 import os
 
 IMDB_ENDPOINT = "https://datasets.imdbws.com/"
